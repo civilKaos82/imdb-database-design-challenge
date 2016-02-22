@@ -7,7 +7,7 @@
 
 ##Summary 
 
- You know the Internet Movie Database?  Let's figure out their schema.
+ You know the [Internet Movie Database](http://www.imdb.com/)?  Let's figure out their schema.
 
 Requirements:
 
