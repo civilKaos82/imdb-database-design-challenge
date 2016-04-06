@@ -24,11 +24,11 @@ Requirements:
 
 Design a database schema for IMDB that meets the requirements.
 
-Use [SQL Designer](https://socrates.devbootcamp.com/sql.html) to create your schema.  When you are done, save the XML of your schema and copy it into the source file `imdb.md`. Then, take a screenshot of your final schema design, and upload it using a free image-upload service like [Min.us](http://minus.com).  Paste the URL of the screenshot into your source file (before your XML code). 
+Use [SQL Designer](https://schemadesigner.devbootcamp.com/) to create your schema.  When you are done, save the XML of your schema and copy it into the source file `imdb.md`. Then, take a screenshot of your final schema design, and upload it using a free image-upload service like [Min.us](http://minus.com).  Paste the URL of the screenshot into your source file (before your XML code). 
 
 
 <!-- ##Optimize Your Learning  -->
 
 ##Resources
 
-* [SQL Designer](https://socrates.devbootcamp.com/sql.html)
+* [SQL Designer](https://schemadesigner.devbootcamp.com/)
