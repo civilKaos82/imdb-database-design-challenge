@@ -1,9 +1,17 @@
 # Schema Design: Internet Movie Database 
  
 
-##Summary 
+## Summary 
+Are we familiar with the Internet Movie Database (IMDb)?  If not, well, it's a database ... a database that contains a whole slew of data related to movies.  Titles, directors, producers.  It's all there.  Users are able to interact with this database in different ways, including the website [imdb.com][].
 
- You know the [Internet Movie Database](http://www.imdb.com/)?  Let's figure out their schema.
+In this challenge, we're going to look at the imdb.com website and infer the schema of the database.  For example, take a look at the [full cast and crew][imdb sharknado 3] for a movie.  What can we deduce?  The database stores data about movies:  the title, release date, etc.  It stores data about people, like their real names.  It associates people with movies, noting their roles and if the role is being a cast member, the character's name.
+
+Now we know a little bit about what data is in the database, but what does the schema look like?
+
+
+##Releases
+
+###Release 0 : Design schema
 
 Requirements:
 
@@ -14,9 +22,6 @@ Requirements:
 5. A movie has a genre, and a genre has many movies
 6. A person can have awards, and awards can be won by multiple people (e.g., "Best Actor" is an awards, won by someone in 2010 and 2011)
 
-##Releases
-
-###Release 0 : Design schema
 
 Design a database schema for IMDB that meets the requirements.
 
@@ -27,4 +32,7 @@ Use [SQL Designer](https://schemadesigner.devbootcamp.com/) to create your schem
 
 ##Resources
 
+
 * [SQL Designer](https://schemadesigner.devbootcamp.com/)
+[imdb.com]: http://www.imdb.com
+[imdb sharknado 3]: http://www.imdb.com/title/tt3899796/fullcredits?ref_=tt_ov_st_sm
