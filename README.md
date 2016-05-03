@@ -1,4 +1,4 @@
-# IMDB Database Design 
+# Schema Design: Internet Movie Database 
  
 ##Learning Competencies 
 
